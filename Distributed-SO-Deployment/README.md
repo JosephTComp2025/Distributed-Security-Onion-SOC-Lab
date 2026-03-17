@@ -9,8 +9,8 @@
 
 ## Architecture
 
-- **ManagerSearch:** [securityonion], [20GBRam], [network role]
-- **Sensor:** [hostname], [9GB Ram], [2 wired nics via usb adapters]
+- **ManagerSearch:** [securityonion], [20GB Ram], [network role]
+- **Sensor:** [sensor), [10GB Ram], [2 wired nics via usb adapters]
 - **Network:** Utilziing a managed switch, one wired nic connected via manager switch, one wired nic connected from the sensor to the mirror port and one wired nic connected to a gneral port on the switch)
 
 
